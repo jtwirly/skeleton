@@ -10,7 +10,6 @@
 const express = require("express");
 
 // import models so we can interact with the database
-const User = require("./models/user");
 const Story = require("./models/story");
 const Comment = require("./models/comment");
 const User = require("./models/user");
